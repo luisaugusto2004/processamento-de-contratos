@@ -26,7 +26,7 @@ namespace ContractProcessing
             contractService.ProcessContract(contract, ins); 
             foreach (Installment installment in contract.Installments)
             {
-                Console.WriteLine(installment); // Exibindo as parcelas
+                Console.WriteLine(installment);
             }
         }
     }
