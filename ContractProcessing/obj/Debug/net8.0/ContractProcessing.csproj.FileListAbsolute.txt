@@ -1,0 +1,14 @@
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\bin\Debug\net8.0\ContractProcessing.exe
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\bin\Debug\net8.0\ContractProcessing.deps.json
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\bin\Debug\net8.0\ContractProcessing.runtimeconfig.json
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\bin\Debug\net8.0\ContractProcessing.dll
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\bin\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfoInputs.cache
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfo.cs
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.dll
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\refint\ContractProcessing.dll
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ContractProcessing.genruntimeconfig.cache
+C:\Users\Luis Augusto\source\repos\ContractProcessing\ContractProcessing\obj\Debug\net8.0\ref\ContractProcessing.dll
